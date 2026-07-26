@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-jho1we.bbqribrunner.co.nz/sitemap.xml
